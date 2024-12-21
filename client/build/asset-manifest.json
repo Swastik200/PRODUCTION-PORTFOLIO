@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05d6424b.css",
+    "main.js": "/static/js/main.a47f1a01.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/Swastik Mishra__Resume.pdf": "/static/media/Swastik Mishra__Resume.6d1670a9ec158b8b8dc6.pdf",
+    "static/media/swas.jpg": "/static/media/swas.7cb7320e8c8c5ac5c64e.jpg",
+    "index.html": "/index.html",
+    "main.05d6424b.css.map": "/static/css/main.05d6424b.css.map",
+    "main.a47f1a01.js.map": "/static/js/main.a47f1a01.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05d6424b.css",
+    "static/js/main.a47f1a01.js"
+  ]
+}
